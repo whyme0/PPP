@@ -1,2 +1,2 @@
-# PPP
-PPP - Public Python projects. This repository contain some code of different python projects made by myself and for myself.
+# My Public Python Projects (PPP)
+Maybe sometimes I'll put there some interesting python stuff or something like that.
